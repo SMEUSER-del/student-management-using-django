@@ -5,12 +5,6 @@ Feel free to make changes based on your requirements.
 [Front-end Template](http://adminlte.io "Admin LTE.io")
 
 
-[Project Demo on YouTube](https://www.youtube.com/watch?v=kArCR96m7uo "Django Student Management System Demo")
-
-And if you like this project, then ADD a STAR ⭐️  to this project 👆
-## Deployed to
-https://smswithdjango.herokuapp.com/
-
 
 ## Features of this Project
 
@@ -40,13 +34,6 @@ https://smswithdjango.herokuapp.com/
 5. Send Feedback to HOD
 
 
-## 📸 ScreenShots
-
-<img src="ss/1.png"/>
-<img src="ss/2.png"/>
-<img src="ss/3.png"/>
-<img src="ss/4.png"/>
-<img src="ss/5.png"/>
 
 | Admin| Staff| Student |
 |------|-------|---------|
@@ -58,14 +45,6 @@ https://smswithdjango.herokuapp.com/
 |<img src="ss/admin6.png" width="400">|<img src="ss/staff6.png" width="400">|<img src="ss/student6.png" width="400">|
 
 
-
-## Support Developer
-1. Add a Star 🌟  to this 👆 Repository
-2. Follow on Twitter/Github
-
-
-## Passport/Images
-Images are from [Unsplash](https://unsplash.com)
 
 
 ## How to Install and Run this project?
@@ -203,11 +182,6 @@ Email: student@student.com
 Password: student
 
 
-
-## For Sponsor or Projects Enquiry
-1. Email - jobowonubi@gmail.com
-2. LinkedIn - [jobic10](https://www.linkedin.com/in/jobic10 "Owonubi Job Sunday on LinkedIn")
-2. Twitter - [jobic10](https://www.twitter.com/jobic10 "Owonubi Job Sunday on Twitter")
 
 
 
